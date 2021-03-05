@@ -2,7 +2,7 @@
 
 **We use weeknotes to involve people in our work and be transparent with our progress.**
 
-Weeknotes highlight achievements and show progress, but also acknowledge things we’re worried about and what hasn't worked so we can adaprt and learn quickly from this.
+Weeknotes highlight achievements and show progress, but also acknowledge things we’re worried about and what hasn't worked, so we can adapt and learn quickly from failure.
 
 [Get in touch](mailto:victoria.hutchinson1@nhs.net) with the team with any questions or feedback.
 
