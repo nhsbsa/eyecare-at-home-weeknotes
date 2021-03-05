@@ -1,4 +1,4 @@
-# Eyecare at home | Week ending: March 5th 
+# Week ending: March 5th 
 
 **We use weeknotes to people on the progress of our work.**
 Weeknotes highlight achievements and show progress, but also acknowledge things we’re worried about and what hasn't worked so we can adaprt and learn quickly from this.
