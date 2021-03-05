@@ -1,12 +1,3 @@
----
-name: Weeknotes
-about: Add your weeknotes using this template
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Eyecare at home | Week ending: March 5th 
 
 **We use weeknotes to people on the progress of our work.**
